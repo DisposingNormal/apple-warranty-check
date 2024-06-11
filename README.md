@@ -1,0 +1,1 @@
+# apple-warranty-check
