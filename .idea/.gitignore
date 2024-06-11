@@ -1,0 +1,27 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Ignored directories
+venv/
+node_modules/
+
+# Excluded GLPI plugin directories
+/glpi/plugins/apple-warranty-check/cache/
